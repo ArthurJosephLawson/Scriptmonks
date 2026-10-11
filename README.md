@@ -67,6 +67,8 @@ managers, no handoffs.
 
 DM us for work — tell us what you're building and we'll reply with next steps.
 
+> 🟢 **Currently accepting new projects.** We usually reply within 24 hours.
+
 - **Email:** `script.monks.mail@gmail.com`
 - **Instagram:** [@Script_monks](https://instagram.com/Script_monks)
 
